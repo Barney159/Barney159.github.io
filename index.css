@@ -1,0 +1,35 @@
+html {
+    font-size: 10px; 
+    font-family: 'Baloo 2', cursive;
+  }
+  hl {
+    margin: 0;
+    padding: 20px 0;
+    color: #FFC300;
+    text-shadow: 3px 3px 1px red;
+  }
+  body {
+    font-family: 'Baloo 2', cursive;
+    background-color: #000000; 
+    padding: 0 20px 20px 20px;
+    border: 5px solid red;
+  }
+  p, li {
+    font-size: 26px;
+    line-height: 2;
+    letter-spacing: 1px;
+    font-family: font-family 'Playfair Display', serif;
+  }
+  section {
+      font-size: 30px;
+      margin: 0;
+      text-align:left;
+      color: #F0FF00;
+      text-shadow: 2px 1px 1px red;
+      border: 5px solid red;
+      padding: 0 20px 20px 20px;
+  }
+  main{
+      display:table;
+      width:100%;
+  }
